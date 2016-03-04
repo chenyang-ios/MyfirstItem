@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     //1.0应经完成
+    //2.0dfsf
 }
 
 - (void)didReceiveMemoryWarning {
